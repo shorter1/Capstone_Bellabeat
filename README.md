@@ -61,32 +61,44 @@ devices. She then wants you to select one Bellabeat product to apply these insig
 
 ***1.4 Key Stakeholders***
 
-1. Urška Sršen and Sando Mur co-founders of Bellabeat
-2. Bellabeats Marketing and analytics team
+- Urška Sršen and Sando Mur co-founders of Bellabeat
+- Bellabeats Marketing and analytics team
 
 ## Step 2: PREPARE
 
-Where is your data stored Data is stored on 18 csv files on Kaggle.
-● How is the data organized? Is it in long or wide format? Data is mostly in wide formate and is organized by user ID  
-● Are there issues with bias or credibility in this data? Does your data ROCCC?
-● How are you addressing licensing, privacy, security, and accessibility?
-● How did you verify the data’s integrity?
-● How does it help you answer your question?
-● Are there any problems with the data?
-Key tasks
-1. Download data and store it appropriately.
-2. Identify how it’s organized.
-3. Sort and filter the data
+***2.0 Dataset Information***
 
-R.O.C.C.C.
-Reliable
-Original 
-Comprehensive
-Current 
-Cited 
+- There are 18 CSV files that are available from FitBit Fitness Tracker Data stored on a Public Domain that are made available by Mobius.
+- The data set on Kaggle contains personal fitness tracking data from 30 Fitbit users who have consented to have their personal data/information tracked by their fitbit.
+- The Data is mostly in wide formate and is organized by user ID  
+- Data was sampled in 2016
+- How does it help you answer your question?
+- Are there any problems with the data?
 
+***2.1 Data Limitations***
+
+1. Data is out of date
+2. Data does not cover all the offerings that Bellabeats tracks
+3. Data was obtained from a third party source 
+4. Data does not specify male vs female participants 
+
+
+**_R.O.C.C.C._**
+
+- Reliable - is limited. population size is to small to determine true trends 
+- Original - unclear
+- Comprehensive - This is not very comprehensive. Data is limited to activity while bellabeats focus on womens health. Fitbit only focuses on activity and sleep.
+- Current - out of date. These are taken from participants in 2016
+- Cited - unclear
+ 
+I will be using both excel and R to clean, explore, process, and visualize the datasets. 
 
 ## Step 3: PROCESS
+
+What tools are you choosing and why? ● Have you ensured your data’s integrity? ● What steps have you taken to ensure that your data is clean? ● How can you verify that your data is clean and ready to analyze? ● Have you documented your cleaning process so you can review and share those results?
+Key tasks 1. Check the data for errors. 2. Choose your tools. 3. Transform the data so you can work with it effectively. 4. Document the cleaning process.
+Deliverable Documentation of any cleaning or manipulation of data
+
 
 ## Step 4: ANALYZE
 
