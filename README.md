@@ -99,6 +99,10 @@ What tools are you choosing and why? ● Have you ensured your data’s integrit
 Key tasks 1. Check the data for errors. 2. Choose your tools. 3. Transform the data so you can work with it effectively. 4. Document the cleaning process.
 Deliverable Documentation of any cleaning or manipulation of data
 
+Excel cleaning:
+- split date and time in one cell to multiple cells 
+- cleaned data to ensure no added spaces, null values, duplicate entries. 
+
 
 ## Step 4: ANALYZE
 
