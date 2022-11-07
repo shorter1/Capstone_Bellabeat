@@ -66,6 +66,26 @@ devices. She then wants you to select one Bellabeat product to apply these insig
 
 ## Step 2: PREPARE
 
+Where is your data stored Data is stored on 18 csv files on Kaggle.
+● How is the data organized? Is it in long or wide format? Data is mostly in wide formate and is organized by user ID  
+● Are there issues with bias or credibility in this data? Does your data ROCCC?
+● How are you addressing licensing, privacy, security, and accessibility?
+● How did you verify the data’s integrity?
+● How does it help you answer your question?
+● Are there any problems with the data?
+Key tasks
+1. Download data and store it appropriately.
+2. Identify how it’s organized.
+3. Sort and filter the data
+
+R.O.C.C.C.
+Reliable
+Original 
+Comprehensive
+Current 
+Cited 
+
+
 ## Step 3: PROCESS
 
 ## Step 4: ANALYZE
