@@ -99,10 +99,13 @@ What tools are you choosing and why? ● Have you ensured your data’s integrit
 Key tasks 1. Check the data for errors. 2. Choose your tools. 3. Transform the data so you can work with it effectively. 4. Document the cleaning process.
 Deliverable Documentation of any cleaning or manipulation of data
 
-Excel cleaning:
+Excel cleaning/modifcations:
 - split date and time in one cell to multiple cells 
-- cleaned data to ensure no added spaces, null values, duplicate entries. 
-
+- cleaned data to ensure no added spaces, null values, duplicate entries
+- checked unique user ID in each csv for accuracy 
+- change all column names to lowercase 
+- change names of all date columns to date vs activity_date, sleedday
+- removed sleep time and left it as just the date 
 
 ## Step 4: ANALYZE
 
