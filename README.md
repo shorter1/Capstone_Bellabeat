@@ -72,8 +72,9 @@ devices. She then wants you to select one Bellabeat product to apply these insig
 - The data set on Kaggle contains personal fitness tracking data from 30 Fitbit users who have consented to have their personal data/information tracked by their fitbit.
 - The Data is mostly in wide formate and is organized by user ID  
 - Data was sampled in 2016
-- How does it help you answer your question?
-- Are there any problems with the data?
+- The data doesn't doesn't track everything that bellabeats products track. 
+- Sample size is small lowing the validity of our findings 
+- Not all participants tracked sleep, so for an already small sample size sleep is even smaller 
 
 ***2.1 Data Limitations***
 
