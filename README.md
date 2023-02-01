@@ -96,10 +96,6 @@ I will be using both excel and R to clean, explore, process, and visualize the d
 
 ## Step 3: PROCESS
 
-What tools are you choosing and why? ● Have you ensured your data’s integrity? ● What steps have you taken to ensure that your data is clean? ● How can you verify that your data is clean and ready to analyze? ● Have you documented your cleaning process so you can review and share those results?
-Key tasks 1. Check the data for errors. 2. Choose your tools. 3. Transform the data so you can work with it effectively. 4. Document the cleaning process.
-Deliverable Documentation of any cleaning or manipulation of data
-
 Excel cleaning/modifcations:
 - split date and time in one cell to multiple cells 
 - cleaned data to ensure no added spaces, null values, duplicate entries
