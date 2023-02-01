@@ -114,6 +114,11 @@ hourly_int_clean <- read.csv("Fitabase Data 4.12.16-5.12.16/hourly_int_clean.csv
 sleep_day_clean <- read_csv("Fitabase Data 4.12.16-5.12.16/sleep_day_clean.csv")
 2
 ```
+
+**Merge Data**
+```
+merged_data <- merge(daily_activity_clean, sleep_day_clean, by = c('Id','Date'))
+```
 ## Step 5: SHARE
 
 ## Step 6: ACT
