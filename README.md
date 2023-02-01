@@ -126,6 +126,8 @@ geom_point()+
 geom_smooth()+
 labs(title = "Total Steps vs Total Sleep")
 ```
+![image](https://user-images.githubusercontent.com/112402643/216103029-c9ad303f-7065-40a5-b1df-390f30e2c4ff.png)
+
 ## Step 5: SHARE
 
 ## Step 6: ACT
