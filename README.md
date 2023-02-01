@@ -119,6 +119,12 @@ sleep_day_clean <- read_csv("Fitabase Data 4.12.16-5.12.16/sleep_day_clean.csv")
 ```
 merged_data <- merge(daily_activity_clean, sleep_day_clean, by = c('Id','Date'))
 ```
+
+```ggplot(data = merged_data, aes(x=(TotalMinutesAsleep/60), y=TotalSteps))+
+geom_point()+
+geom_smooth()+
+labs(title = "Total Steps vs Total Sleep")
+```
 ## Step 5: SHARE
 
 ## Step 6: ACT
