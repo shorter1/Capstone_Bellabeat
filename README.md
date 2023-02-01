@@ -106,6 +106,13 @@ Excel cleaning/modifcations:
 
 ## Step 4: ANALYZE
 
+**load clean data to R:**
+
+daily_activity_clean <- read.csv("Fitabase Data 4.12.16-5.12.16/daily_activity_clean.csv")
+sleep_daily_clean <- read.csv("Fitabase Data 4.12.16-5.12.16/sleep_day_clean.csv")
+hourly_int_clean <- read.csv("Fitabase Data 4.12.16-5.12.16/hourly_int_clean.csv")
+sleep_day_clean <- read_csv("Fitabase Data 4.12.16-5.12.16/sleep_day_clean.csv")
+2
 ## Step 5: SHARE
 
 ## Step 6: ACT
